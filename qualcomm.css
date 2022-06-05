@@ -335,7 +335,7 @@ display:flex;
         background-color: transparent;
         overflow:hidden;
         height:600px;
-        background-image: url(images/body10.png);
+        background-image: url("images/body10.png");
 
     }
     .b10-left{
@@ -391,18 +391,18 @@ display:flex;
 
     }
 .l1img{
-background-image: url(images/lastbodypart1.jpeg);
+background-image: url("images/lastbodypart1.jpeg");
 
 background-size: cover  ;
 }
 .l2img{
-    background-image: url(images/lastbodypart2.jpeg);
+    background-image: url("images/lastbodypart2.jpeg");
 
     background-size: cover  ;
 
 }
 .l3img{
-    background-image: url(images/lastbodypart3.jpeg);
+    background-image: url("images/lastbodypart3.jpeg");
 
     background-size: cover  ;
 }
